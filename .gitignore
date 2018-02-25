@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!online_videos.ipynb
+
+# ...even if they are in subdirectories
+!*/
+
+.DS_Store
