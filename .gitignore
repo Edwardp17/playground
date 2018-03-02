@@ -4,6 +4,7 @@
 # But not these files...
 !online_videos.ipynb
 !conversion_rate.ipynb
+!conversion_rate1.ipynb
 
 # ...even if they are in subdirectories
 !*/
